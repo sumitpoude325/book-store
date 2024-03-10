@@ -1,8 +1,2 @@
 bookcode   authorname    publisher
-	5	sumit	rupesh
-	66	sumit	rup
-	66	sumit	ff
-	-1073748734	fd	fdj
-	66	sumit	sum
-	5	ekchiyan	sumit
-	0	sumit	sum
+1           flyaway       sumit
