@@ -56,6 +56,7 @@ void read()
         c = fgetc(fptr);
     }
     fclose(fptr);
+    home();
 }
 
 void write()
